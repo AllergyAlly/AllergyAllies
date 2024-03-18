@@ -3,7 +3,7 @@
     "nodemon": "^3.0.1"
   },
   "dependencies": {
-    "@react-native-async-storage/async-storage": "^1.21.0",
+    "@react-native-async-storage/async-storage": "^1.22.2",
     "@react-navigation/bottom-tabs": "^6.5.9",
     "pdfkit-table": "^0.1.99",
     "survey-core": "^1.9.112",
