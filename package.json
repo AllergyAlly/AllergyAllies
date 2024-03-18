@@ -6,7 +6,7 @@
     "@react-native-async-storage/async-storage": "^1.21.0",
     "@react-navigation/bottom-tabs": "^6.5.9",
     "pdfkit-table": "^0.1.99",
-    "survey-core": "^1.9.112",
+    "survey-core": "^1.9.131",
     "survey-react-ui": "^1.9.112"
   }
 }
